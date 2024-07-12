@@ -1,0 +1,16 @@
+{
+	"name"			: "ossos_demo",
+	"version"		: "0.0.0.1",
+	"description"	: "",
+	"keywords"		: [ "webgl", "threejs", "animation" ],
+	"repository"	: { "url": "https://github.com/sketchpunklabs/ossos_demo.git", "type": "git" },
+	"author"		: { "name": "Sketchpunk", "email": "tmp@tmp.com", "url": "https://github.com/sketchpunklabs" },
+	"license"		: "MIT",
+
+	"devDependencies": {
+		"browser-sync"  : "^2.27.5"
+	},
+	"scripts": {				
+		"start"  : "browser-sync start --config bs-config.js"
+	}
+}

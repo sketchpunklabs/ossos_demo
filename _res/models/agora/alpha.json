@@ -1,0 +1,10 @@
+{
+    "name"          : "Alpha",
+    "src"           : "alpha_1_1.gltf",
+    "skinIndex"     : 0,
+    "meshName"      : "Alpha",
+    "textureYFlip"  : false,
+    "tpose"         : { "type": "animation", "name": "TPose", "frame": 0 },
+    "mainChains"    : null,
+    "extraChains"   : null
+}
