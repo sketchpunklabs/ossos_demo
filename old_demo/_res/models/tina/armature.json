@@ -1,0 +1,11 @@
+{
+    "chains":[
+        { "name":"hair_l", "bones":["hair.L.002","hair.L.004","hair.L.003","hair.L.005"] },
+        { "name":"hair_r", "bones":["hair.R.002","hair.R.004","hair.R.003","hair.R.005"] }
+    ],
+
+    "bones":[
+        "breast.L",
+        "breast.R"
+    ]
+}
